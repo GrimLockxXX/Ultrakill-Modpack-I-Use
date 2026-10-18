@@ -7,9 +7,13 @@ So below are the list of active mods and their respective link
 (Note: this modpack may or may not change in the future)
 
 Thank you to these creators for creating these mods
+
 EternalsTeam, end_4, averyocean65, Hydraxous, renshei, Dominicentek, Flazhik, Jade_Harley, SilentSmilee
+
 notrlguyyah, 2011xPlayz, Mr_Ribkee, The_Idiots, turd, bobthecorn, FarisTangerine, EladNLG
+
 beppinman12, BillyMod, Bobot, ZephyrOff, stereotypicaldweeb,and Pozdr70
+
 
 https://thunderstore.io/c/ultrakill/p/BepInEx/BepInExPack/
 
